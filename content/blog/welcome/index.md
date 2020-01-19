@@ -1,7 +1,7 @@
 ---
 title: Welcome to the SWSheets Blog
 date: "2020-01-07"
-description: "Welcome to the SWSheets Blog."
+description: "Welcome to the SWSheets blog!"
 ---
 
 Welcome to the SWSheets blog!
