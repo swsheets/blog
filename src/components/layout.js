@@ -64,7 +64,10 @@ class Layout extends React.Component {
         <main>{children}</main>
         <footer>
           <a href="https://swsheets.com">SWSheets</a> |{` `}
-          <a href="https://github.com/swsheets/swsheets">Contribute</a> |{` `}
+          <a href="https://github.com/swsheets/swsheets">
+            Request Features, Report Bugs, Contribute
+          </a>{" "}
+          |{` `}
           <Link to={`/rss.xml`}>RSS</Link>
           <br></br>© {new Date().getFullYear()}, Built with{" "}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
