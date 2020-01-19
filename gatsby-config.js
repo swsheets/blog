@@ -61,7 +61,7 @@ module.exports = {
         short_name: `SWSheets`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#EF9734`,
         display: `minimal-ui`,
         icon: `content/assets/swsheets-icon.png`,
       },
