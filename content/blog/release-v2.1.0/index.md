@@ -6,7 +6,7 @@ description: "Version 2.1.0 of SWSheets was released on 01/21/2020. Read about t
 
 Version 2.1.0 of SWSheets was released on 01/21/2020.
 
-This vast majority the 26 (!) updates in this release were primarily changes that make developers, but not necessarily users, happier. This release was meant to make development on SWSheets easier, hopefully paving the way for quicker feature releases in the future.
+This vast majority of the 26 (!) updates in this release were primarily changes that make developers, but not necessarily users, happier. This release was meant to make development on SWSheets easier, hopefully paving the way for quicker feature releases in the future.
 
 Here are some of the things that you might care about, though.
 
