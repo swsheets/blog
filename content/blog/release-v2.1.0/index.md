@@ -11,7 +11,7 @@ This vast majority the 26 (!) updates in this release were primarily changes tha
 Here are some of the things that you might care about, though.
 
 - Fix the soak panel height when editing a character.
-- Add alternating row colors to character skill table.
+- Add alternating row colors to character talents table.
 - Numerous formatting fixes for mobile devices.
 - [Serve swsheets.com over HTTPS](/swsheets-now-served-over-https/).
 
